@@ -1,0 +1,19 @@
+@import url('../fonts/stylesheet.css');
+
+h1 {
+  font-family: 'Tinkoff Sans', sans-serif;
+  font-weight: 500;
+  color: black;
+}
+
+.profile__hello {
+  font-family: 'Tinkoff Sans', sans-serif;
+  font-weight: normal;
+  color: black;
+}
+
+.profile__job {
+  font-family: 'Tinkoff Sans', sans-serif;
+  font-weight: normal;
+  color: #5C5C5C;
+}
