@@ -94,16 +94,10 @@
 }
 
 .header__name {
-  width: 100px;
-  height: 15px;
-
+  font-family: 'Tinkoff Sans', sans-serif;
   font-weight: 600;
-  font-style: SemiBold;
   font-size: 14px;
-  line-height: 104%;
-  letter-spacing: 0%;
-  font-style: Medium;
-  color: rgba(0, 0, 0, 1);
+  color: #000;
 }
 
 .header__position {
