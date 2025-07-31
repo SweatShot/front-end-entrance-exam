@@ -349,8 +349,9 @@
 }
 
 .job__company-text {
+  font-family: 'Tinkoff Sans', sans-serif;
   font-weight: 400;
-  font-style: Regular;
+  font-style: normal;
   font-size: 8px;
   line-height: 150%;
   letter-spacing: 0%;
@@ -369,8 +370,9 @@
 }
 
 .job__responsibility {
-  font-weight: 400;
-  font-style: Regular;
+  font-family: 'Tinkoff Sans', sans-serif;
+  font-weight: 300;
+  font-style: normal;
   font-size: 8px;
   line-height: 150%;
   word-spacing: 0%;
